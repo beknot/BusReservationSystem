@@ -1,0 +1,16 @@
+#route-list{list-style:none;
+	position: absolute;
+}
+#route-list td{background: #eaeaea; 
+ font-size: 15px;
+ width: 280px;
+ color: #101111;
+}
+#route-list td:hover{background:#bbcded;cursor: pointer;}
+#btnsearch{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px;}
+
+#search-box{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px;}
+#search-boxe{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px;}
+#tobox{ margin-top: -24px;}
+#suggesstion-box{position: absolute;margin-top: -23px; width: 270px;}
+#suggesstion-boxe{position: absolute;margin-top: -25px; width: 300px;}
